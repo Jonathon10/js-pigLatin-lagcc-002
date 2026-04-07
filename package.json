@@ -1,0 +1,11 @@
+{
+  "name": "js-piglatin",
+  "version": "1.0.0",
+  "description": "Pig Latin translator exercise",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^5.1.0"
+  }
+}
